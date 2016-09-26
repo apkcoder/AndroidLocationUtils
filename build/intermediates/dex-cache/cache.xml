@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/xianglin/Downloads/Coding/demo/MTDC/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/xianglin/Downloads/Coding/demo/MTDC/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_ebd10457905391b882a1128960c76d92dd4e4ba2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xianglin/Downloads/Coding/demo/MTDC/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="61449327e571741041860e5fce1430955b872c2b">
+        <dex dex="/Users/xianglin/Downloads/Coding/demo/MTDC/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_57f56cdb0c4e491ab4e092f50066d1df22cc1b69/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xianglin/Downloads/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/xianglin/Downloads/Coding/demo/MTDC/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_b82b4ee9b693fd10a91eec1221c26fe055c5b5b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xianglin/Downloads/Coding/demo/MTDC/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/xianglin/Downloads/Coding/demo/MTDC/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_e9053a6504da4ff32fd3e9bde7ced8f53e05734e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xianglin/Downloads/Coding/demo/MTDC/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/xianglin/Downloads/Coding/demo/MTDC/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_39ad1a1dbbda568a35d3f59fd7993dd131bca76d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xianglin/Downloads/Coding/demo/MTDC/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/xianglin/Downloads/Coding/demo/MTDC/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_6f8c080671b84fd32c94d482e63d31ad8266f93b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xianglin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/xianglin/Downloads/Coding/demo/MTDC/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.4.1_142264bbf446c4fc0a22271e1e6ec90640a646c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xianglin/Downloads/Coding/demo/MTDC/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/xianglin/Downloads/Coding/demo/MTDC/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_c523274c90d5cca9d62c2e2c5c0f012d3b31f2ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xianglin/Downloads/Coding/demo/MTDC/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9e07a6eff2eeea39f477becdabf465ad18445a49">
+        <dex dex="/Users/xianglin/Downloads/Coding/demo/MTDC/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b9bd151a5bed57de04faac296b3cebb92043efbc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xianglin/Downloads/Coding/demo/MTDC/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/xianglin/Downloads/Coding/demo/MTDC/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_884a0e0c916b27c3b3b4d237727475febbeaeab9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xianglin/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/xianglin/Downloads/Coding/demo/MTDC/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_5d87a2aa9b6092653e3fc7a414187a0f3ad3f7af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xianglin/Downloads/Coding/demo/MTDC/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/xianglin/Downloads/Coding/demo/MTDC/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_1acbbebac55f06a5897616a6459fba2337a707c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xianglin/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/xianglin/Downloads/Coding/demo/MTDC/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_c7da10ee3bd98f38da707487e7be434f7b3c806d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xianglin/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/xianglin/Downloads/Coding/demo/MTDC/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_0080c15bf1c8fa9c18fb9f0ebb19ec846c99fe76/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xianglin/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/xianglin/Downloads/Coding/demo/MTDC/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.9.0_f8049a2238c46b45de3556bfc71fe06b5170cf54/classes.dex" />
+    </item>
+
+</items>
